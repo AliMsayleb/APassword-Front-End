@@ -1,4 +1,4 @@
-# apasswordmanagerfrontend
+# This is the front end to APasswords chrome extension
 
 > The front end to my password manager app
 
